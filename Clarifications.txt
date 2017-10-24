@@ -1,0 +1,3 @@
+1, If we change the port number in "protractor.conf.js" from default 4200 to 4201 its not working with new port number 
+2, configuration related files if we made any changes then need re-compile
+3, 

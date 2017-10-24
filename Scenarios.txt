@@ -1,0 +1,1 @@
+1, We can chage the single page name as per our customised name in ".angular-cli.json" Change index.html to index1.html 

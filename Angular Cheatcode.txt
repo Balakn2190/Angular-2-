@@ -1,0 +1,5 @@
+1, node -v => Node Version 
+2, npm -v => Node package manger version
+3, ng new my-app => To Create new application
+4, ng serve/ npm start/ng server => start Angular App
+5, cntrl + c => Stop the Angular App
